@@ -1,0 +1,23 @@
+header{
+    background-color: black;
+}
+
+.logo {
+    width: 10%;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    justify-content: center;
+    margin: 0 3% 0 3%;
+    align-content: space-between;
+}
+
+a {
+    text-decoration: none;
+
+}
